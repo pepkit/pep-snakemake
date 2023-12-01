@@ -1,3 +1,5 @@
+### Note: This repository has been archived and consolidated into: https://github.com/pepkit/pep-pipelines/
+
 # pep-snakemake
 
 Example simple and bioinformatic pipelines using PEPs and Snakemake.
